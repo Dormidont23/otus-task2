@@ -1,5 +1,6 @@
 ## Первые шаги с Ansible ##
 
+/Ansible\
 root@dazert:/Ansible# **ansible-playbook nginx.yml**
 
 PLAY [Install nginx package] ***********************************************************************************************
