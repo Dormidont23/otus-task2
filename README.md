@@ -1,4 +1,4 @@
-ANSIBLE
+## Первые шаги с Ansible ##
 
 root@dazert:/Ansible# ansible-playbook nginx.yml
 
