@@ -25,8 +25,8 @@ changed: [otus-task2]
 PLAY RECAP *****************************************************************************************************************
 otus-task2                 : ok=6    changed=5    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
 
-root@dazert:/Ansible# telnet 192.168.56.150 8080
-Trying 192.168.56.150...
+root@dazert:/Ansible# telnet 192.168.56.150 8080\
+Trying 192.168.56.150...\
 Connected to 192.168.56.150.
 Escape character is '^]'.
 ^]
