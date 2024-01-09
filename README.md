@@ -1,6 +1,6 @@
 ## Занятие № 2. Первые шаги с Ansible ##
 
-/Ansible\
+Создадим в корне каталог Ansible.\
 root@dazert:/Ansible# **ansible-playbook nginx.yml**
 
 PLAY [Install nginx package] ***********************************************************************************************
