@@ -1,0 +1,6 @@
+---
+- name: Install nginx package
+  hosts: otus-task2
+  become: true
+  roles:
+    - nginx
