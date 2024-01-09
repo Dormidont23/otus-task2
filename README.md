@@ -7,6 +7,7 @@
 - Раздел tasks - в файл tasks/main.yml
 - Раздел vars - в файл vars/main.yml
 
+Также был создан playbook (с ролью nginx) nginx.yml и выполнена команда:\
 root@dazert:/Ansible# **ansible-playbook nginx.yml**
 
 PLAY [Install nginx package] ***********************************************************************************************
@@ -39,3 +40,5 @@ Escape character is '^]'.\
 ^]\
 telnet> q\
 Connection closed.
+
+telnet на порт 8080 есть, следовательно задание выполнено.
